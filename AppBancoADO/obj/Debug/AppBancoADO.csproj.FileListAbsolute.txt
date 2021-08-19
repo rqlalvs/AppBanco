@@ -1,0 +1,6 @@
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\bin\Debug\AppBancoADO.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoADO\obj\Debug\AppBancoADO.csprojAssemblyReference.cache

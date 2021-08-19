@@ -1,0 +1,11 @@
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\obj\Debug\AppBancoDLL.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\obj\Debug\AppBancoDLL.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoDLL.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoDLL.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoADO.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoDominio.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoADO.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\bin\Debug\AppBancoDominio.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\obj\Debug\AppBancoDLL.csproj.CopyComplete
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\obj\Debug\AppBancoDLL.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDLL\obj\Debug\AppBancoDLL.pdb

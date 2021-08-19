@@ -1,0 +1,5 @@
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDominio\bin\Debug\AppBancoDominio.pdb
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.dll
+C:\Users\3aetim\Desktop\2808appbanco\AppBanco\AppBancoDominio\obj\Debug\AppBancoDominio.pdb

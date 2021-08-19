@@ -1,0 +1,24 @@
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe.config
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.csprojAssemblyReference.cache
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.csproj.CoreCompileInputs.cache
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.exe
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.pdb
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe.manifest
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.application
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.TrustInfo.xml
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.exe.manifest
+C:\Users\3aetim\Desktop\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe.config
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\bin\Debug\ConsoleBanco11.pdb
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.csprojAssemblyReference.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.csproj.CoreCompileInputs.cache
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.TrustInfo.xml
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.exe.manifest
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.application
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.exe
+T:\Usuarios\INFORMATICA\3A ETIM\2 Bimestre\Natalya e Naous\AppBanco\ConsoleBanco11\obj\Debug\ConsoleBanco11.pdb
